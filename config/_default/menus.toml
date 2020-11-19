@@ -3,6 +3,8 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
+
 [[main]]
   name = "Registration"
   url = "https://forms.gle/6puBKMwv3rRhmka58"
@@ -10,13 +12,13 @@
 
 [[main]]
   name = "Program"
-  url = "https://drive.google.com/file/d/1Le8pDjylAXk1iJDJL9xd9oTXKaq8XVmX/view?usp=sharing"
+  url = "#accomplishments"
   weight = 20
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "Organization"
+  url = "#abertura2"
+  weight = 30
 
 #[[main]]
 #  name = "Publications"

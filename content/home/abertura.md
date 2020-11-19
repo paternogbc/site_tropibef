@@ -50,17 +50,18 @@ subtitle = ""
  css_class = ""
 +++
 
-### I International Workshop on Tropical BEF-experiments: integrating initiatives
+## **International Workshop on Tropical BEF-experiments**
+*Integrating initiatives*
 
 The **TropiBEF** workshop aims to integrate people, knowledge and experience about biodiversity-ecosystem-function experiments and the restoration of degraded tropical high-diversity ecosystems. 
 
-# Workshop Goals
+## Workshop Goals
 
 * To announce the [BEF-Atlantic experiment](https://bef-atlantic.netlify.app/) 
 * To Integrate people, knowledge and experiences about existing and future tropical BEF-experiments from the [TreeDivNet](https://treedivnet.ugent.be/)
 * To create the Brazilian Network of BEF experiments 
 
-# Registration
+## Registration
 
 Keynote talks will be open to the public and transmitted live via Zoom Webinars.  
 

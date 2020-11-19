@@ -5,8 +5,8 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 4  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 99  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -50,12 +50,25 @@ subtitle = ""
  css_class = ""
 +++
 
-# Detailed Programm
+## Institutions 
 
-## 8 December 2020 (Tuesday)
+The **TropiBEF** workshop is a joint event co-hosted by the Technical University of Munich (TUM - Germany) and the Federal University of Juiz de Fora (UFJF - Brazil).
 
-**12:30** - Opening Ceremony
-**12:45** - Keynote 1 - *André Amado* (UFJF)
-BEF-Atlantic: A large-scale tree diversity and restoration experiment on the Atlantic Forest
+{{< figure src="/media/logos.png" title="" >}}
 
+
+## Organization committee
+
+The TropiBEF workshop is organized by:  
+* Gustavo Paterno (TUM)
+* Leonardo Teixeira (TUM)
+* André Amado (UFJF)
+* Fabrício Alvim Carvalho (UFJF)
+* Johannes Kollmann (TUM)
+
+*** 
+
+## Want to get in touch?
+
+Please send us an email at tropibef@gmail.com
 
