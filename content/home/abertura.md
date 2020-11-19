@@ -52,7 +52,7 @@ subtitle = ""
 
 ### I International Workshop on Tropical BEF-experiments: integrating initiatives
 
-The **TropiBEF** workshop aims to integrate people, knowledge and experience about biodiversity experiments and the restoration of degraded tropical high-diversity ecosystems. 
+The **TropiBEF** workshop aims to integrate people, knowledge and experience about biodiversity-ecosystem-function experiments and the restoration of degraded tropical high-diversity ecosystems. 
 
 # Workshop Goals
 

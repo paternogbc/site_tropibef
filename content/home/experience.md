@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Invited keynote talks"
 subtitle = ""
 
 # Date format for experience
@@ -18,18 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "André Amado"
+  company = "UFJF"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = ""
+  date_start = "2020-12-08"
+  date_end = "2020-12-08"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+ **BEF-Atlantic**: A large-scale tree diversity and restoration experiment on  the Atlantic Forest
   """
 
 [[experience]]
@@ -42,3 +38,5 @@ date_format = "Jan 2006"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
+
+See the full. 
