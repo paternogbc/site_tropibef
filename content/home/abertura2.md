@@ -60,10 +60,10 @@ The **TropiBEF** workshop is a joint event co-hosted by the Technical University
 ## Organization committee
 
 The TropiBEF workshop is organized by:  
-* Gustavo Paterno (TUM)
-* Leonardo Teixeira (TUM)
+* Gustavo B. Paterno (TUM)
+* Leonardo H. Teixeira (TUM)
 * André Amado (UFJF)
-* Fabrício Alvim Carvalho (UFJF)
+* Fabrício A. Carvalho (UFJF)
 * Johannes Kollmann (TUM)
 
 *** 
