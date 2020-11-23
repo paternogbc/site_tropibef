@@ -50,12 +50,15 @@ subtitle = ""
  css_class = ""
 +++
 
+## Funding 
+
+The workshop was funded by **TUM Global Incentive Fund 2020** (Technical University of Munich TUM Global & Alumni Office)
+
 ## Institutions 
 
-The **TropiBEF** workshop is a joint event co-hosted by the Technical University of Munich (TUM - Germany) and the Federal University of Juiz de Fora (UFJF - Brazil).
+The **TropiBEF** workshop is a joint event co-hosted by the Technical University of Munich (TUM - Germany) and the Federal University of Juiz de Fora (UFJF - Brazil). 
 
 {{< figure src="/media/logos.png" title="" >}}
-
 
 ## Organization committee
 
