@@ -127,3 +127,9 @@ date_format = "Jan 2006"
 +++
 
 ## See the full program [here](https://drive.google.com/file/d/1Le8pDjylAXk1iJDJL9xd9oTXKaq8XVmX/view?usp=sharing)
+
+*** 
+
+{{< figure src="/media/tropibef_speakers.png" title="" >}}
+
+## Talks

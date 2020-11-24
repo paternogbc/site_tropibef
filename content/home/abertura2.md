@@ -50,6 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
+*** 
+# Organization
+
 ## Funding 
 
 The workshop was funded by **TUM Global Incentive Fund 2020** (Technical University of Munich TUM Global & Alumni Office)
