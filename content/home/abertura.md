@@ -65,4 +65,4 @@ The **TropiBEF** workshop aims to integrate people, knowledge and experience abo
 
 Keynote talks will be open to the public and transmitted live via Zoom Webinars.  
 
-[**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSeSQpuMjNeG6ole-FBCPAK6nA8ISp6cFPI1IS8ilUx-EHm6FA/viewform) to get access to the workshop live talks.
+[**Register here**](https://tum-conf.zoom.us/webinar/register/WN_JegWM7c8RhSW0kSMI5Mnyw) to get access to the workshop live talks.
